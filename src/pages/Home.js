@@ -36,7 +36,7 @@ const Home = () => {
     <nav className="fixed-top">
       <div className="main">
         <div className="box">
-          <h1 className="text text-success">IMAGE GALLERY</h1>
+          <h1 className="text text-danger">IMAGE GALLERY</h1>
         </div>
 
         <ul
